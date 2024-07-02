@@ -97,6 +97,9 @@ Before diving into this roadmap, here's a suggested course structure:
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 -------->>>💰 Support the Project
+
+
+
 If you find this project helpful, please consider supporting me. Your support allows me to dedicate more time and effort to creating useful projects like Python30Days and developing new tools and resources. By contributing, you're not only helping improve existing tools but also inspiring new ideas and innovations. Thank you for your support! Together, let's continue building and learning
 
 
