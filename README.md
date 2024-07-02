@@ -1,9 +1,10 @@
-🐍 Why Python and Why This Roadmap?
+![image](https://github.com/2003mahi/30_Days_For_Python-/assets/113999508/9f242ccd-c9f8-4f75-b4f7-df413c1c44d6)🐍 Why Python and Why This Roadmap?
 
 Python is a high-level, versatile programming language known for its readability and simplicity. It has a vast community and is widely used in various fields, including web development, data science, machine learning, automation, and more. This roadmap is perfect for beginners and anyone looking to solidify their Python skills.
 
 🛠️ How to Use
 The project is organized into separate sections for each day, making it easy for you to follow along. Each day focuses on specific topics and provides practical examples and exercises to reinforce your learning. To navigate through the content, you can either explore the filenames or refer to the main "README.md" file. For instance, to access the content for Day 4-6, simply open the "Day 4-6.md" file.
+
 
  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
