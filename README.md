@@ -41,8 +41,7 @@ Learn to execute basic SQL queries for data manipulation.
 Explore Python web frameworks like Flask and Django.
 Create a simple web application and gain insights into web development.
 
------->> >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Python Projects <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
+----> Python Projects 
 you'll find a collection of practical Python projects to help you apply your programming knowledge and build useful applications.
 
 1) Simple Notepad Application
