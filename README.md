@@ -8,6 +8,8 @@ The project is organized into separate sections for each day, making it easy for
  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 📁 Course Content
+
+
 ----> Days 1-3: Basic Concepts and Installation
 Understand Python's introduction and why it's popular.
 Learn the basic syntax of Python and its core data types (string, integer, float, list, tuple, dictionary).
@@ -42,6 +44,10 @@ Explore Python web frameworks like Flask and Django.
 Create a simple web application and gain insights into web development.
 
 ----> Python Projects 
+
+
+
+
 you'll find a collection of practical Python projects to help you apply your programming knowledge and build useful applications.
 
 1) Simple Notepad Application
@@ -77,6 +83,9 @@ Implement user registration, vehicle addition, rental management, and secure log
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 📋 Course Structure and Preparation
+
+
+
 Before diving into this roadmap, here's a suggested course structure:
 
 - Daily Learning: Dedicate time each day to go through the topics and complete the exercises.
